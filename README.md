@@ -1,1 +1,2 @@
 ALGORITHMS
+yeh algos hai
