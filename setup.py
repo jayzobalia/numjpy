@@ -15,8 +15,8 @@ setup(
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/jayzobalia/numjpy.git",
-    author="JAYZ",
-    author_email="jay.zobalia@somaiya.edu",
+    author="SWAMINARAYAN",
+    author_email="",
     license="MIT",
     classifiers=[
         "License :: OSI Approved :: MIT License",
