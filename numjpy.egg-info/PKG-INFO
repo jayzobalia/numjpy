@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: numjpy
 Version: 4.0.0
-Summary: Algorithms
-Home-page: https://github.com/jayzobalia/numjpy.git
+Summary: NUMPY
+Home-page: 
 Author: SWAMINARAYAN
 Author-email: 
 License: MIT
@@ -16,6 +16,5 @@ Classifier: Programming Language :: Python :: 3.10
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
-ALGORITHMS
-yeh algos hai
+UNKNOWN
 
