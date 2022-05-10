@@ -10,11 +10,11 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="numjpy",
-    version="3.0.0",
-    description="Algorithms",
+    version="4.0.0",
+    description="NUMPY",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/jayzobalia/numjpy.git",
+    url="",
     author="SWAMINARAYAN",
     author_email="",
     license="MIT",
